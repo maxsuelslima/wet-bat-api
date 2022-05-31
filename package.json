@@ -1,0 +1,13 @@
+{
+  "name": "wet-bat-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maxsuelslima/wet-bat-api.git",
+  "author": "maxsuel lima",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "ts-node": "^10.8.0",
+    "typeorm": "^0.3.6"
+  }
+}
